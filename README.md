@@ -1,4 +1,4 @@
-# Telegram File To Link Generation Bot
+
 A Telegram bot that can stream Telegram files to users over HTTP.
 
 ## You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
@@ -28,6 +28,3 @@ A Telegram bot that can stream Telegram files to users over HTTP.
 
    Run Console in Heroku `python3 GenerateStringSession.py` and follow.
    * Note: When it will ask for Phone Number and Bot token Give `Bot token` valu
-
-   If bot is not responding, open `https://<appname>.herokuapp.com/` and try again.
-   Issue - https://github.com/tulir/tgfilestream/issues/9
