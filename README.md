@@ -4,7 +4,7 @@ A Telegram bot that can stream Telegram files to users over HTTP.
 ## You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
 ### With Bot Token & Session String
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TGExplore/TG-Files-to-Link)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NT-BOT-TE/NT-LINK-TO-FILE-BOT)
 
 ### Without Session String
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TGExplore/TG-Files-to-Link/tree/Merging)
